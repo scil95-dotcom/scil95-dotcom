@@ -27,6 +27,8 @@ The themes: **structured AI outputs, reliable data, trading systems engineering 
 | **[E-commerce Ops Lab](https://github.com/scil95-dotcom/ecommerce-ops-lab)** | Idempotent order events, stock reservations, oversell prevention and visible fulfillment exceptions. | [Source & event model](https://github.com/scil95-dotcom/ecommerce-ops-lab) |
 | **[Portfolio website](https://github.com/scil95-dotcom/scil95-dotcom.github.io)** | Responsive UI, keyboard-operated tabs, reduced-motion support and a printable project brief. | [Live website](https://scil95-dotcom.github.io/) |
 
+| **[Raccoon Workstation](https://github.com/scil95-dotcom/raccoon-workstation)** | GNOME surface styling, portrait tiling presets, credited artwork derivatives and explicit verification limits. | [Design & source](https://github.com/scil95-dotcom/raccoon-workstation) |
+
 ## Practices reflected in the repositories
 
 - **Make inputs explicit:** schemas, assumptions, boundaries and failure reasons.
